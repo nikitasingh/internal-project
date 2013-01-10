@@ -30,3 +30,9 @@ data = "year=" + str;
 }
 
 
+ $(document).ready(function()
+    {
+     
+        $("#myTable").tablesorter();
+    }
+);
